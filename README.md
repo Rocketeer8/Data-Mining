@@ -13,7 +13,7 @@ This project is separated into 2 parts:
 
 Alternatively, Project.pdf in the repo also displays the result.
 
-# What I learned
+# What I Learned
 - Understanding the mechanics of various regression machine learning algorithms, including Decision Trees, Linear Regression, K-Nearest Neighbors (KNN), and Random Forests. Additionally, delving into Classification machine learning algorithms such as Logistic Regression, Decision Trees, and Random Forests.
 - Handling data cleansing (missing values) and conducting data exploration.
 - Employing strategies to select optimal features and implementing data dimension reduction techniques.
